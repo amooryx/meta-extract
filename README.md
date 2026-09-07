@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="meta-extract" width="800">
+</div>
+
 # meta-extract
 
 > Document metadata extractor for PDF/DOCX/JPEG EXIF
