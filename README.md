@@ -1,4 +1,4 @@
-﻿# meta-extract
+# meta-extract
 
 > Document metadata extractor for PDF/DOCX/JPEG EXIF
 
